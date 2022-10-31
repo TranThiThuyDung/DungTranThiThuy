@@ -1,0 +1,28 @@
+.data {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1400px;
+  justify-content: space-around;
+}
+.layout {
+  display: flex;
+  justify-content: space-around;
+  background-color: pink;
+  padding: 10px;
+  color: black
+}
+
+.img {
+  width: 100px;
+  height: 250px;
+}
+
+.pagination {
+  text-align: center;
+}
+
+.Home {
+  text-align: center;
+  padding-top: 200px;
+  color: blueviolet;
+}
